@@ -1,0 +1,3 @@
+([('game',
+   '/Users/bilal_sheikh/Documents/Projects/Tic-tac-toe-AI/dist/game',
+   'EXECUTABLE')],)
